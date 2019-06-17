@@ -1,0 +1,26 @@
+{
+  "name": "hippy-react-ui",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "robbieyang <robbieyang@tencent.com>",
+  "homepage": "https://github.com/yang657850144/rn-ui#readme",
+  "license": "ISC",
+  "main": "lib/hippy-react-ui.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yang657850144/rn-ui.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/yang657850144/rn-ui/issues"
+  }
+}
